@@ -1,0 +1,12 @@
+   h1{
+                color: rebeccapurple;
+            }
+            #thirdDIV{
+                height: 600px; width: 500px;
+                background-color: palegreen;
+                padding: 50px;
+                border: 2px solid yellow; 
+            }
+            .spanId{
+                margin: 50px;
+            }
